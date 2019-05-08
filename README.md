@@ -9,6 +9,8 @@
 ## 최혜정
 * 안녕하세요
 * I LOVE CHOCOLATE
+* MY NAME IS JEOUNY
+
 
 ## 작업
  * [예시 작업](./example/)
