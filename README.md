@@ -7,12 +7,8 @@
 
 
 ## 최혜정
-<<<<<<< HEAD
 * 안녕하세요
-
-=======
 * I LOVE CHOCOLATE
->>>>>>> 1d9a9e92c95c2bbf0633f8e5349bba2a1bb4963d
 
 ## 작업
  * [예시 작업](./example/)
