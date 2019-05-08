@@ -10,7 +10,7 @@
 * 안녕하세요
 * I LOVE CHOCOLATE
 * MY NAME IS JEOUNY
-
+* 잠이 많지만 요새 잠을 자지 못해요,,제작 파이팅..!
 
 ## 작업
  * [예시 작업](./example/)
