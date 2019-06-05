@@ -1,16 +1,15 @@
 # JYEONY
 (HyeJeoung Choi)
 
- * Main Works
- Kinectic Arts
+* Main Works
+  * Kinectic Arts
 
- * Connect links
- **e-mail**      chjdas97@gmail.com
- [**instagram**](https://www.instagram.com/hyejeoung2821/)   hyejeoung2821
+* Connect links
+  * **e-mail**      chjdas97@gmail.com
+  * [**instagram**](https://www.instagram.com/hyejeoung2821/)   hyejeoung2821
+  * [**facebook**](https://www.facebook.com/profile.php?id=100014777734057)    HyeJeoung Choi
 
- **facebook**    HyeJeoung Choi
-
- * 제가 검색을 자주하는 사이트는 [구글](https://google.com)입니다.
+* 제가 검색을 자주하는 사이트는 [구글](https://google.com)입니다.
 
 
 ## 작업
