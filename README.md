@@ -2,7 +2,8 @@
 (HyeJeoung Choi)
 
 * Main Works
-  * Kinectic Arts
+  * Media Arts
+    * (Kinectic Arts | Media Performance)
 
 * Connect links
   * **e-mail**      chjdas97@gmail.com
