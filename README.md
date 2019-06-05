@@ -1,16 +1,17 @@
-## 시작하기
+# JYEONY
+(HyeJeoung Choi)
 
-접속 주소 : <http://chjdas.github.io/PoeticCodeForNature/>
- * picxenk 대신 여러분의 아이디로 변경합니다.
- * \_config.yml 파일에서 url 값을 여러분에게 맞게 수정하세요.
- * 원한다면 테마를 변경할 수 있습니다. <https://pages.github.com/themes/> 페이지를 참고합니다.
+ * Main Works
+ Kinectic Arts
 
+ * Connect links
+ **e-mail**      chjdas97@gmail.com
+ [**instagram**](https://www.instagram.com/hyejeoung2821/)   hyejeoung2821
 
-## 최혜정
-* 안녕하세요
-* I LOVE CHOCOLATE
-* MY NAME IS JEOUNY
-* 잠이 많지만 요새 잠을 자지 못해요,,제작 파이팅..!
+ **facebook**    HyeJeoung Choi
+
+ * 제가 검색을 자주하는 사이트는 [구글](https://google.com)입니다.
+
 
 ## 작업
  * [예시 작업](./example/)
