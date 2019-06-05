@@ -23,4 +23,4 @@
 
 ## Image Sketch
  * Particle Sketch img
- ![예시 이미지](./image/particle_sketch.png)
+ ![예시 이미지](./image/particle_sketch.jpeg)
