@@ -4,8 +4,7 @@
 * Main Works
   * Media Arts
     * (Kinectic Arts | Media Performance)  
-    #
-
+<br/>
 * Connect links
   * **e-mail**      chjdas97@gmail.com
   * [**instagram**](https://www.instagram.com/hyejeoung2821/)   hyejeoung2821
