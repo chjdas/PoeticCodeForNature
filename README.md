@@ -3,7 +3,7 @@
 <br/>
 * Main Works
   * Media Arts
-    * (Kinectic Arts | Media Performance)  
+  * (Kinectic Arts | Media Performance)  
 <br/>
 * Connect links
   * **e-mail**      chjdas97@gmail.com
@@ -20,4 +20,4 @@
 
  * 다음처럼 이미지를 추가할 수도 있습니다.
 
- ![예시 이미지](./example_img.png)
+ ![예시 이미지](./image/example_img.png)
