@@ -12,12 +12,16 @@
 <br/>
 <br/>
 <br/>
+
 # P5.js Works
 <br/>
+## Main Works
+
+## Sub Works
  * the principles of magnetism Worked.
   * [Mouse Interaction](./magnet/)
  * Waves, Waves Implementation Worked.
 
  * 다음처럼 이미지를 추가할 수도 있습니다.
 
- ![예시 이미지](./image/example_img.png)
+ ![예시 이미지](./image/particle_sketch.png)
