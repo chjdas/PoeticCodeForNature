@@ -24,7 +24,7 @@
   See Image Sketch(1-2)<br/>
   [Resources](https://p5js.org/examples/simulate-multiple-particle-systems.html)  P5.js examples : Multiple Particle Systems
   <br/>
- * 
+ *
 
 ## Sub Works
  * the principles of magnetism Worked.<br/>
