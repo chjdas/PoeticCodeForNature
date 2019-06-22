@@ -23,6 +23,7 @@
  * [kadenze](https://www.kadenze.com/courses/the-nature-of-code-ii/info)<br/>
  <br/>
  [kadenze 01](./work01.md/)
+ [kadenze 02](./work02.md/)
  <br/>
  <br/>
 
