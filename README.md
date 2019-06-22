@@ -39,12 +39,15 @@
   [Mouse Interaction_Magnet](./magnet/)
   Resources : [Example of the magnetic](https://www.openprocessing.org/sketch/171308)
   <br/>
+  <br/>
  * Waves, Waves Implementation Worked.<br/>
  [Mouse Interaction_offset](./offset/)
+ <br/>
  <br/>
  * Expanding the Particle System. <br/>
   I wanted to create a fire that could be seen with a mouse, but it was difficult to create the shape of a fire, which reversed and applied the gravity of the existing particle system.<br/>
   [Particles_seek](./particles_seek/)
+  <br/>
   <br/>
  * The Sun, the planet. <br/>
  The planet is a different idea because it has the right structure in distance but does not go into the speed difference between the two moving.
