@@ -9,7 +9,7 @@
 * Connect links
   * **e-mail**      chjdas97@gmail.com
   * [**instagram**](https://www.instagram.com/hyejeoung2821/)   hyejeoung2821
-  * [**facebook**](https://www.facebook.com/profile.php?id=100014777734057)    HyeJeoung Choi
+  * [**facebook**](https://www.facebook.com/profile.php?id=100014777734057)    JEOUNEY
 <br/>
 <br/>
 * Connect github : https://chjdas.github.io/PoeticCodeForNature/
