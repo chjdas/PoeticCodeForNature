@@ -40,12 +40,14 @@
   <br/>
   <br/>
  * Waves, Waves Implementation Worked.<br/>
- [Mouse Interaction_offset](./offset/)
+ [Mouse Interaction_offset](./offset/)<br/>
+ See Image Sketch(1-1)<br/>
  <br/>
  <br/>
  * Expanding the Particle System. <br/>
   I wanted to create a fire that could be seen with a mouse, but it was difficult to create the shape of a fire, which reversed and applied the gravity of the existing particle system.<br/>
-  [Particles_seek](./particles_seek/)
+  [Particles_seek](./particles_seek/)<br/>
+  See Image Sketch(1-1)<br/>
   <br/>
   <br/>
  * The Sun, the planet. <br/>
