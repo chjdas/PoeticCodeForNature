@@ -45,6 +45,7 @@
  * Expanding the Particle System. <br/>
   I wanted to create a fire that could be seen with a mouse, but it was difficult to create the shape of a fire, which reversed and applied the gravity of the existing particle system.<br/>
   [Particles_seek](./particles_seek/)
+  <br/>
  * The Sun, the planet. <br/>
  The planet is a different idea because it has the right structure in distance but does not go into the speed difference between the two moving.
 Perhaps because the planets were mostly made in production, the example that emerged as using the speed difference between the two objects was the planet. Therefore, we created and squeezed the following code into a virtual planet and applied. <br/>
