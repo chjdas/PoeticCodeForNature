@@ -24,15 +24,16 @@
   * [Resources](https://p5js.org/examples/simulate-multiple-particle-systems.html)  P5.js examples : Multiple Particle Systems
 
 ## Sub Works
- * the principles of magnetism Worked.
-  * [Mouse Interaction_Magnet](./magnet/)
- * Waves, Waves Implementation Worked.
+ * the principles of magnetism Worked.<br/>
+  [Mouse Interaction_Magnet](./magnet/)
+ * Waves, Waves Implementation Worked.<br/>
+ [Mouse Interaction_offset](./offset/)
  * Expanding the Particle System <br/>
-  I wanted to create a fire that could be seen with a mouse, but it was difficult to create the shape of a fire, which reversed and applied the gravity of the existing particle system.
-  * [Particles_seek](./particles_seek/)
+  I wanted to create a fire that could be seen with a mouse, but it was difficult to create the shape of a fire, which reversed and applied the gravity of the existing particle system.<br/>
+  [Particles_seek](./particles_seek/)
 
 ## Image Sketch
- * Particle Sketch img
+ * Particle Sketch img <br/>
  ![예시 이미지](./image/particle_sketch.jpeg)
- * Particle Sketch img2 - Main works (Particles_bubble)
+ * Particle Sketch img2 - Main works (Particles_bubble) <br/>
  ![메인작업 파티클 이미지 스케치](./image/Particle_sketch2.JPG)
