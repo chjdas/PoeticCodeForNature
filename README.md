@@ -34,3 +34,5 @@
 ## Image Sketch
  * Particle Sketch img
  ![예시 이미지](./image/particle_sketch.jpeg)
+ * Particle Sketch img2 - Main works (Particles_bubble)
+ ![메인작업 파티클 이미지 스케치](./image/Particle_sketch2.JPG)
