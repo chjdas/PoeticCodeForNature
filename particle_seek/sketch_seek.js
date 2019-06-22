@@ -1,31 +1,26 @@
-let r=150;
-let xp;
-let yp;
-let xs=2;
-let cell=15;
+// The Nature of Code
+// Daniel Shiffman
+// http://natureofcode.com
+
+// Particles are generated each cycle through draw(),
+// fall with gravity and fade out over time
+// A ParticleSystem object manages a variable size
+// list of particles.
+
+// 참고가 되는 책 내용은 아래와 같습니다.
+// https://natureofcode.com/book/chapter-4-particle-systems/
+
+// let trigger2 = 50;
+let particleSystem;
 
 function setup() {
-  createCanvas(800, 600);
-  background(255);
-
+  createCanvas(640, 360);
+  particleSystem = new ParticleSystem();
 }
+
 function draw() {
-  background(255);
-  stroke(200);
+  background(51);
 
-  for (let i=0; i<=width;i+=cell) {
-    for (let j=0; j<=height;j+=cell) {
-  this.m = createVector(mouseX,mouseY);
-  this.p = createVector(i,j);
-  m.sub(p);
-  m.normalize();
-  m.mult(15);
-strokeWeight(2);
-push();
-translate(i,j);
-  line(0,0,m.x,m.y);
-  pop();
-    }
-  }
-
+  particleSystem.addParticle();
+  particleSystem.run();
 }
