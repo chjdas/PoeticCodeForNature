@@ -1,4 +1,4 @@
-# JYEONEY
+# introduction
 (HyeJeoung Choi)
 <br/>
 <br/>
@@ -19,6 +19,11 @@
 <br/>
 
 # P5.js Works
+## Retrospective
+ * [kadenze](https://www.kadenze.com/courses/the-nature-of-code-ii/info)<br/>
+ <br/>
+ [kadenze 01](./work.md/)
+ <br/>
 ## Main Works
  * [**Particles_bubble**](./Particles_bubble/)<br/>
   See Image Sketch(1-2)<br/>
