@@ -18,31 +18,31 @@
 배우지 않은 내용 바탕 회고:
 - class의 확장 개념.
 <br/>
-![class0](./image/01.png/)
+![예시1](./image/01.png/)
 <br/>
 새로운 js를 만든 후 확장의 confetti를 활용하여 클래스를 확장. 해당 확장되는 것은 기존 클래스에서 추가되는 부분. 기존클래스에 영향을 주지만 원본코드는 건드리지 않게 하기위한 개념인 것인가, 덮어씌우기 생각하면 편할듯하다.
 - 파티클 클래스를 아우르는 파티클 시스템 클래스 사용에 있어서
 <br/>
-![class1](./image/02.png/)
+![예시2](./image/02.png/)
 <br/>
 this.particles.push를 사용하여 해당 파티클을 사용하는 듯하다. 정확한 정보가 필요 ->알아볼것.
 - 화살표 기호의 사용. filter?
 <br/>
-![class3](./image/03.png/)
+![예시3](./image/03.png/)
 <br/>
 화살표 기호에 관한 많은 정보들이 있지만 가장 이해하기 적합한 부분은 이와 같다.
 <br/>
-![class4](./image/04-1.png/)
+![예시4](./image/04-1.png/)
 <br/>
 filter: THRESHOLD,GRAY,OPAQUE, INVERT 등 다양한 필터를 추가할 수 있다. 필터의 인자는
 filter(filterType, [filterParam])와 같다.
 - 반복문 for, of?
 <br/>
-![class5](./image/04.png/)
+![예시5](./image/04.png/)
 <br/>
 간단하게 생각해보자. 다음과 같은 코드가 있다.
 <br/>
-![class6](./image/05.png/)
+![예시6](./image/05.png/)
 <br/>
 코드는 모두 다른 4개의 for문이지만 결과값이 다 다르다. basic for문과 for in 은 반복변수에 index를 리턴하지만 forEach 와 for of 는 해당 값을 리턴하기 때문이다. 결론적으로 forEach와 for of 는 배열의 반복에 사용된다.
 하지만 forEach는 위와같이 callback 함수가 필요하다. 굳이 이걸 쓸 필요 없이 같은 기능을 하기 위해 나온것이 for of 인 것이다.
