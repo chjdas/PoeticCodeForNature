@@ -19,9 +19,8 @@
 <br/>
 
 # P5.js Works
-## Retrospective
- * [kadenze](https://www.kadenze.com/courses/the-nature-of-code-ii/info)<br/>
- [kadenze 01](./work01.md/)  <br/>
+## Retrospective / [kadenze](https://www.kadenze.com/courses/the-nature-of-code-ii/info)<br/>
+ * [kadenze 01](./work01.md/)  <br/>
  [kadenze 02](./work02.md/) <br/>
  [ParticleSystem](./particleSystem.md/)<br/>
 
