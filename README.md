@@ -1,7 +1,7 @@
 # JYEONY
 (HyeJeoung Choi)
 <br/>
-* Main Works
+* Primary Works
   * Media Arts
   * (Kinectic Arts | Media Performance)  
 <br/>
@@ -15,6 +15,8 @@
 
 # P5.js Works
 ## Main Works
+ * [**Particles_bubble**](./Particles_bubble/)
+ * [Resources](https://p5js.org/examples/simulate-multiple-particle-systems.html)  P5.js examples : Multiple Particle Systems
 
 ## Sub Works
  * the principles of magnetism Worked.
