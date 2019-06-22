@@ -21,30 +21,35 @@
 # P5.js Works
 ## Retrospective
  * [kadenze](https://www.kadenze.com/courses/the-nature-of-code-ii/info)<br/>
- <br/>
  [kadenze 01](./work01.md/)  <br/>
  [kadenze 02](./work02.md/) <br/>
- [ParticleSystem](./particleSystem.md/)
- <br/>
+ [ParticleSystem](./particleSystem.md/)<br/>
+
  <br/>
 
 ## Main Works
  * [**Particles_bubble**](./Particles_bubble/)<br/>
   See Image Sketch(1-2)<br/>
-  [Resources](https://p5js.org/examples/simulate-multiple-particle-systems.html)  P5.js examples : Multiple Particle Systems
+  Resources : [P5.js examples : Multiple Particle Systems](https://p5js.org/examples/simulate-multiple-particle-systems.html)  
   <br/>
  *
 
 ## Sub Works
  * the principles of magnetism Worked.<br/>
   [Mouse Interaction_Magnet](./magnet/)
+  Resources : [Example of the magnetic](https://www.openprocessing.org/sketch/171308)
   <br/>
  * Waves, Waves Implementation Worked.<br/>
  [Mouse Interaction_offset](./offset/)
  <br/>
- * Expanding the Particle System <br/>
+ * Expanding the Particle System. <br/>
   I wanted to create a fire that could be seen with a mouse, but it was difficult to create the shape of a fire, which reversed and applied the gravity of the existing particle system.<br/>
   [Particles_seek](./particles_seek/)
+ * The Sun, the planet. <br/>
+ The planet is a different idea because it has the right structure in distance but does not go into the speed difference between the two moving.
+Perhaps because the planets were mostly made in production, the example that emerged as using the speed difference between the two objects was the planet. Therefore, we created and squeezed the following code into a virtual planet and applied. <br/>
+ [The planet](./planet/)
+ Resources : [Example of the distance-relationship part with a mouse based on the part that calculates the distance between two objects](https://visualize.tistory.com/312)
 
 ## Image Sketch
 <br/>
