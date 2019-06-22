@@ -1,4 +1,4 @@
-# JYEONY
+# JYEONEY
 (HyeJeoung Choi)
 <br/>
 * Primary Works
