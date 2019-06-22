@@ -5,7 +5,19 @@ let current;
 let previous;
 
 function setup() {
-  createCanvas(600, 600);
+  title = createElement('h3', "<a href='/PoeticCodeForNature'> HOME  <br/> </a> Bubble");
+title.position (50,0);
+  canvas = createCanvas(600,600);
+  canvas.position(50,100);
+  description = " <br/>\
+  떨어지는 파티클에 역중력을 적용시키다가 떠오른 아이디어. <br/>\
+  비눗방울을 불면 처음에 바람에 밀렸다가 올라가는 궤적과 <br/>\
+  마지막에 그대로 올라가는 다른 궤적들의 차이로 작품을 만들 수 있을 것같아 시도해보았다.<br/>\
+  ";
+text = createDiv(description);
+text.position(20, 700);
+text.style("font-family", "monospace");
+text.style("font-size", "12pt");
   current = createVector(0,0);
   previous = createVector(0,0);
 }
