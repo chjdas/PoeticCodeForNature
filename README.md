@@ -52,7 +52,7 @@
  * The Sun, the planet. <br/>
  The planet is a different idea because it has the right structure in distance but does not go into the speed difference between the two moving.
 Perhaps because the planets were mostly made in production, the example that emerged as using the speed difference between the two objects was the planet. Therefore, we created and squeezed the following code into a virtual planet and applied. <br/>
- [The planet](./planet/)
+ [The planet](./planet/)<br/>
  Resources : [Example of the distance-relationship part with a mouse based on the part that calculates the distance between two objects](https://visualize.tistory.com/312)
 
 ## Image Sketch
