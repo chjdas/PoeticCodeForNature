@@ -27,9 +27,8 @@
  <br/>
 
 ## Main Works
- * [**Particles_bubble**](./Particles_bubble/)<br/>
+ * [**Bubble**](./Particles_bubble/)<br/>
  (Click the name)<br/>
- 떨어지는 파티클에 역중력을 적용시키다가 떠오른 아이디어. 비눗방울을 불면 처음에 바람에 밀렸다가 올라가는 궤적과 마지막에 그대로 올라가는 다른 궤적들의 차이로 작품을 만들 수 있을 것같아 시도해보았다.<br/>
  The idea of applying reverse gravity to falling particles. I tried to make the work because blowing bubbles would make the difference between a trajectory that was pushed by the wind at first and then raised at the end.<br/>
   See Image Sketch(1-2)<br/>
   Resources : [P5.js examples : Multiple Particle Systems](https://p5js.org/examples/simulate-multiple-particle-systems.html)  <br/>
