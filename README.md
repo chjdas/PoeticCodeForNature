@@ -25,8 +25,8 @@
   * [Mouse Interaction](./magnet/)
  * Waves, Waves Implementation Worked.
  * Expanding the Particle System <br/>
-  - I wanted to create a fire that could be seen with a mouse, but it was difficult to create the shape of a fire, which reversed and applied the gravity of the existing particle system.
-  * [Particles_seek](./Particles_seek/)
+  I wanted to create a fire that could be seen with a mouse, but it was difficult to create the shape of a fire, which reversed and applied the gravity of the existing particle system.
+  * [Particles_seek](./Seek/)
 
 ## Image Sketch
  * Particle Sketch img
