@@ -1,6 +1,7 @@
 # JYEONEY
 (HyeJeoung Choi)
 <br/>
+* Connect github : https://chjdas.github.io/PoeticCodeForNature/
 * Primary Works
   * Media Arts
   * (Kinectic Arts | Media Performance)  
