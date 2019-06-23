@@ -1,11 +1,11 @@
 <ParticleSystem>
 
-지금까지 배운내용 바탕 회고:
-- class를 활용하여 파티클 클래스를 생성
-- 속도, 가속도, 위치값을 활용한 물리법칙 적용. 벡터 이용.
-- random값으로 일정 범위의 난수를 정하여 속도를 표현
-- this.position = position.copy(); 로 위치값을 지정.
-- lifespan이라는 깃발을 세워 일정 시간 지난 후 파티클이 사라지게 만듦.
+# 지금까지 배운내용 바탕 회고:
+* class를 활용하여 파티클 클래스를 생성
+* 속도, 가속도, 위치값을 활용한 물리법칙 적용. 벡터 이용.
+* random값으로 일정 범위의 난수를 정하여 속도를 표현
+* this.position = position.copy(); 로 위치값을 지정.
+* lifespan이라는 깃발을 세워 일정 시간 지난 후 파티클이 사라지게 만듦.
   isDead() {
     if (this.lifespan < 0.0) {
       return true;
@@ -13,20 +13,20 @@
       return false;
     }
   }
-- 셋업에서 파티클을 불러와 실행.
-
-배우지 않은 내용 바탕 회고:
-- class의 확장 개념.
+* 셋업에서 파티클을 불러와 실행.
+<br/>
+# 배우지 않은 내용 바탕 회고:
+* class의 확장 개념.
 <br/>
 ![예시1](./image/class01.png/)
 <br/>
 새로운 js를 만든 후 확장의 confetti를 활용하여 클래스를 확장. 해당 확장되는 것은 기존 클래스에서 추가되는 부분. 기존클래스에 영향을 주지만 원본코드는 건드리지 않게 하기위한 개념인 것인가, 덮어씌우기 생각하면 편할듯하다.
-- 파티클 클래스를 아우르는 파티클 시스템 클래스 사용에 있어서
+* 파티클 클래스를 아우르는 파티클 시스템 클래스 사용에 있어서
 <br/>
 ![예시2](./image/02.png/)
 <br/>
 this.particles.push를 사용하여 해당 파티클을 사용하는 듯하다. 정확한 정보가 필요 ->알아볼것.
-- 화살표 기호의 사용. filter?
+* 화살표 기호의 사용. filter?
 <br/>
 ![예시3](./image/03.png/)
 <br/>
@@ -36,7 +36,7 @@ this.particles.push를 사용하여 해당 파티클을 사용하는 듯하다. 
 <br/>
 filter: THRESHOLD,GRAY,OPAQUE, INVERT 등 다양한 필터를 추가할 수 있다. 필터의 인자는
 filter(filterType, [filterParam])와 같다.
-- 반복문 for, of?
+* 반복문 for, of?
 <br/>
 ![예시5](./image/04.png/)
 <br/>
