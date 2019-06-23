@@ -45,6 +45,13 @@
   Seeds used for this work : Gravity, wind <br/>
 <br/>
 <br/>
+* Waves, Waves Implementation Worked.<br/>
+Resources : [I wanted to like this](https://www.youtube.com/watch?v=k3QZwO67Dy4)<br/>
+And with this feeling, the mouse motion, the pushy pixels were not even thought of, but they wanted to have a still water resolution effect, so we decided that this would be possible with noise, which would be more natural than random values. In order to create this ripple effect with noise, I tried to weave the code that I drew in a circle above from the first.<br/>
+[Mouse Interaction_offset](./offset/)<br/>
+The water surface vibrates gently and gently. What will it look like when the rainwater flows and the still water moves in a curve? I tried to pixelate the water surface of a water.<br/>
+[Surface of water](./Surface_Water)<br/>
+See Image Sketch(1-1)<br/>
 
 ## Sub Works
  * the principles of magnetism Worked. (Code Practice)<br/>
@@ -52,15 +59,6 @@
   Resources : <br/>
   [Example of the magnetic](https://www.openprocessing.org/sketch/171308)<br/>
   [Example of the magnetic_field](https://repl.it/@zrl/p5js-examples)<br/>
-  <br/>
-  <br/>
- * Waves, Waves Implementation Worked.<br/>
- Resources : [I wanted to like this](https://www.youtube.com/watch?v=k3QZwO67Dy4)<br/>
- And with this feeling, the mouse motion, the pushy pixels were not even thought of, but they wanted to have a still water resolution effect, so we decided that this would be possible with noise, which would be more natural than random values. In order to create this ripple effect with noise, I tried to weave the code that I drew in a circle above from the first.<br/>
- [Mouse Interaction_offset](./offset/)<br/>
- The water surface vibrates gently and gently. What will it look like when the rainwater flows and the still water moves in a curve? I tried to pixelate the water surface of a water.<br/>
- [Surface of water](./Surface_Water)<br/>
- See Image Sketch(1-1)<br/>
  <br/>
  <br/>
  * Expanding the Particle System. <br/>
