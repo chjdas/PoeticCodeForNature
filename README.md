@@ -52,6 +52,8 @@ And with this feeling, the mouse motion, the pushy pixels were not even thought 
 The water surface vibrates gently and gently. What will it look like when the rainwater flows and the still water moves in a curve? I tried to pixelate the water surface of a water.<br/>
 [Surface of water](./Surface_Water)<br/>
 See Image Sketch(1-1)<br/>
+<br/>
+<br/>
 
 ## Sub Works
  * the principles of magnetism Worked. (Code Practice)<br/>
