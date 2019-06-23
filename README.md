@@ -60,7 +60,6 @@ See Image Sketch(1-1)<br/>
   [Example of the magnetic](https://www.openprocessing.org/sketch/171308)<br/>
   [Example of the magnetic_field](https://repl.it/@zrl/p5js-examples)<br/>
  <br/>
- <br/>
  * Expanding the Particle System. <br/>
   I wanted to create a fire that could be seen with a mouse, but it was difficult to create the shape of a fire, which reversed and applied the gravity of the existing particle system.<br/>
   [Particles_seek](./particles_seek/)<br/>
