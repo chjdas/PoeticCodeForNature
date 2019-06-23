@@ -45,7 +45,7 @@
   Seeds used for this work : Gravity, wind <br/>
 <br/>
 <br/>
-* Waves, Waves Implementation Worked.<br/>
+* **Waves, Waves Implementation Worked**<br/>
 Resources : [I wanted to like this](https://www.youtube.com/watch?v=k3QZwO67Dy4)<br/>
 And with this feeling, the mouse motion, the pushy pixels were not even thought of, but they wanted to have a still water resolution effect, so we decided that this would be possible with noise, which would be more natural than random values. In order to create this ripple effect with noise, I tried to weave the code that I drew in a circle above from the first.<br/>
 [Mouse Interaction_offset](./offset/)<br/>
