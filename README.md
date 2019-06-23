@@ -45,10 +45,13 @@
   Seeds used for this work : Gravity, wind <br/>
 <br/>
 <br/>
+
 ## Sub Works
- * the principles of magnetism Worked.<br/>
+ * the principles of magnetism Worked. (Code Practice)<br/>
   [Mouse Interaction_Magnet](./magnet/)
-  Resources : [Example of the magnetic](https://www.openprocessing.org/sketch/171308)
+  Resources : <br/>
+  [Example of the magnetic](https://www.openprocessing.org/sketch/171308)<br/>
+  [Example of the magnetic_field](https://repl.it/@zrl/p5js-examples)<br/>
   <br/>
   <br/>
  * Waves, Waves Implementation Worked.<br/>
@@ -77,3 +80,7 @@
  <br/>
  * (2) The orbit of a planet <br/>
  ![궤도](./image/sketch_2.JPG)
+ <br/>
+
+## Reference
+ [link1](https://creative-coding.decontextualize.com/making-games-with-p5-play/)
